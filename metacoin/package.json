@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/prashanthr/blok-box#readme",
   "dependencies": {
+    "ganache-cli": "^6.0.3",
     "truffle": "^4.0.6"
   }
 }
